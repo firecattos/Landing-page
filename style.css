@@ -33,10 +33,41 @@ body {
     margin: 0;
 }
 
-.hlinks {
-    display: flex;
+.hlinks, .htext2 {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.hlinks {
+    display: flex;
+    /*font-size: 18px;
+    color: #e5e7eb;*/
     margin-left: auto;
     justify-content: space-around;
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    gap: 24px;
+    
+}
+
+.htext1 {
+    font-size: 48px;
+    font-weight: 800; /*extra-bold value*/
+    color: #F9FAF8;
+}
+
+.himage {
+    /*display: flex;
+    flex: 1;*/
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
 }
