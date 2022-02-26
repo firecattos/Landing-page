@@ -20,12 +20,8 @@ body {
 }
 
 .hlogo {
-    /*display: flex;*/
     color: #F9FAF8;
     font-size: 24px;
-    /*justify-content: flex-start;
-    align-items: center;
-    margin-left: 16px;*/
 }
 
 .hlinks {
@@ -49,14 +45,6 @@ body {
     font-size: 18px;
     color: #e5e7eb;
 }
-
-/*.hlinks {
-    display: flex;
-    /*font-size: 18px;
-    color: #e5e7eb;
-    margin-left: auto;
-    justify-content: space-around;
-}*/
 
 .hero {
     background-color: #1F2937;
@@ -147,10 +135,6 @@ button {
     justify-content: flex-end;
     font-size: 24px;
 }
-
-/*.signup {
-    margin: 48px 125px;
-}*/
 
 .signup {
     margin: 48px 125px;
