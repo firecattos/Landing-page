@@ -9,7 +9,7 @@ body {
 
 .hcont {
     display: flex;
-    padding: 24px 180px;
+    padding: 1.5em 11.25em;
     justify-content: flex-start;
     background-color: #1F2937;
 }
@@ -31,7 +31,7 @@ body {
 .hlinks ul {
     list-style-type: none;
     display: flex;
-    gap: 16px;
+    gap: 1em;
     margin: 0;
     padding: 0;
 }
@@ -52,8 +52,8 @@ body {
     flex: 1;
     justify-content: center;
     align-items: center;
-    padding: 72px 24px;
-    gap: 24px;
+    padding: 4.5em 1.5em;
+    gap: 1.5em;
     
 }
 
@@ -72,7 +72,7 @@ button {
     background-color: #3882F6;
     border-style: none;
     border-radius: 10px;
-    padding: 5px 30px;
+    padding: 0.3em 1.875em;
     font-weight: 800;
     color: white;
 }
@@ -88,7 +88,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 24px;
+    margin: 1.5em;
 }
 
 .infohead {
@@ -99,8 +99,8 @@ button {
 
 .gallery {
     display: flex;
-    gap: 48px;
-    margin-bottom: 48px;
+    gap: 3em;
+    margin-bottom: 3em;
 }
 
 .infocards img {
@@ -119,7 +119,7 @@ button {
 
 .quote {
     background-color: #e5e7eb;
-    padding: 24px 150px;
+    padding: 1.5em 9.4em;
 }
 
 .qtext {
@@ -137,12 +137,12 @@ button {
 }
 
 .signup {
-    margin: 48px 125px;
+    margin: 3em 7.8em;
     display: flex;
     background-color: #3882F6;
     border-radius: 10px;
     color: white;
-    padding: 48px 96px;
+    padding: 3em 6em;
 }
 
 .signup p {
@@ -164,7 +164,7 @@ button {
 
 .footcont {
     background-color: #1F2937;
-    padding: 24px;
+    padding: 1.5em;
     display: flex;
     justify-content: center;
 }
