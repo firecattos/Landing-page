@@ -10,7 +10,6 @@ body {
 .header {
     background-color: #1F2937;
     display: flex;
-    flex: 1;
     justify-content: center;
     align-items: center;
     padding: 1.5em 0;
@@ -44,7 +43,6 @@ body {
 .hero {
     background-color: #1F2937;
     display: flex;
-    flex: 1;
     justify-content: center;
     align-items: center;
     padding: 4.5em 1.5em;
@@ -73,8 +71,6 @@ button {
 }
 
 .himage {
-    justify-content: center;
-    align-items: center;
     width: 400px;
     height: 200px;
 }
@@ -94,8 +90,8 @@ button {
 
 .gallery {
     display: flex;
-    gap: 3em;
-    margin-bottom: 3em;
+    gap: 7em;
+    margin: 3em 0;
 }
 
 .infocards img {
@@ -114,7 +110,7 @@ button {
 
 .quote {
     background-color: #e5e7eb;
-    padding: 1.5em 9.4em;
+    padding: 1.5em 10em;
 }
 
 .qtext {
@@ -129,6 +125,11 @@ button {
     display: flex;
     justify-content: flex-end;
     font-size: 24px;
+}
+
+.signcont {
+    display: flex;
+    justify-content: center;
 }
 
 .signup {
@@ -156,6 +157,7 @@ button {
     border-style: solid;
     border-color: white;
     border-radius: 10px;
+    flex-shrink: 0;
 }
 
 .footcont {
