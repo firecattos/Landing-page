@@ -1,3 +1,5 @@
 # Landing-page
 
-Had to revisit some lessons and google a few, but it wasn't as complex as i thought at first sight
+This is a sample of a landing page, as per exercise of The Odin Project.
+
+Used HTML and CSS.
